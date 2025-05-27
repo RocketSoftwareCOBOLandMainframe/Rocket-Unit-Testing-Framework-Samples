@@ -41,5 +41,10 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
-  <Import Project="$(MSBuildExtensionsPath)\Micro Focus\Visual COBOL\v1.0\MicroFocus.COBOL.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Micro Focus\Visual COBOL\v1.0\MicroFocus.COBOL.targets" 
+          Condition="exists('$(MSBuildExtensionsPath)\Micro Focus\Visual COBOL\v1.0\MicroFocus.COBOL.targets') and exists('$(MSBuildExtensionsPath)\Rocket Software\Visual COBOL\Rocket.COBOL.targets') == false"
+          />
+  <Import Project="$(MSBuildExtensionsPath)\Rocket Software\Visual COBOL\Rocket.COBOL.targets" 
+          Condition="exists('$(MSBuildExtensionsPath)\Rocket Software\Visual COBOL\Rocket.COBOL.targets') == true"
+          /> 
 </Project>
