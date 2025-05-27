@@ -42,7 +42,7 @@ change-message"1205 N"
 
   <ItemGroup>
     <!-- Reference MicroFocus.COBOL.MFUNIT in order for MFU* APIs to be resolved -->
-    <PackageReference Include="MicroFocus.COBOL.MFUNIT" Version="8.100.*" />
+    <PackageReference Include="MicroFocus.COBOL.MFUNIT" Version="8.*" />
     <None Include="global.json" />
   </ItemGroup>
 

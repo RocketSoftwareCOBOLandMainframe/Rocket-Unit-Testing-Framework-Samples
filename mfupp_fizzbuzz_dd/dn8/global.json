@@ -1,5 +1,5 @@
 {
     "msbuild-sdks": {
-        "MicroFocus.Sdk": "2.2.0"
+        "MicroFocus.Sdk": "3.0.0"
     }
 }

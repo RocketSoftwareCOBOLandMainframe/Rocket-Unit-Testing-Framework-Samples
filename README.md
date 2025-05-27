@@ -1,6 +1,8 @@
-# Rocket Unit Testing Framework Samples for 10.0
+# Rocket Unit Testing Framework Samples for X.X
 
-This repo contains a collection of samples that demonstrate the features included with the [Rocket Unit Testing Framework](https://www.microfocus.com/documentation/enterprise-developer/ed100/ED-Eclipse/index.html?t=GUID-56868D50-F836-4FA3-9255-8BCE6F895D1B.html)
+## This is the main branch, plase choose the right branch for your product
+
+This repo contains a collection of samples that demonstrate the features included with the [Rocket Unit Testing Framework](https://docs.rocketsoftware.com/bundle/enterprisedeveloper_dg2_100_html/page/GUID-56868D50-F836-4FA3-9255-8BCE6F895D1B.html)
 
 ## Samples
 
