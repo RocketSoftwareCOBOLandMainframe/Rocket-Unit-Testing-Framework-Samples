@@ -22,7 +22,7 @@ This repo contains a collection of samples that demonstrate the features include
 | Simplified bankdemo sample                                  | ED v9                 | Program/Section based test cases with mock cics                                  | [Directory](mfupp_bankdemo/)            | --  | --          | No                |
 | Simple CISC 'Hello World'                                   | ED v9                 | Section based tests with mock CICS                                               | [Directory](mfupp_cics_hello/)          | --  | --          | No                |
 | Employee table scanner sample                               | VC/ED v9              | Program based test with mock sql                                                 | [Directory](mfupp_scan_employee_table/) |     |             | No                |
-| Common Setup/Teardown                                       | VC/ED v11             | Sample showing use of MFU-TC-COMMON-SETUP-PREFIX / MFU-TC-COMMON-TEARDOWN-PREFIX | [Directory](common)                     | Yes |
+| Common Setup/Teardown                                       | VC/ED v11             | Sample showing use of MFU-TC-COMMON-SETUP-PREFIX / MFU-TC-COMMON-TEARDOWN-PREFIX | [Directory](common)                     | Yes | Yes         | Yes               |
 
 *VC/ED = Visual COBOL and Enterprise Developer
 *N8 = Visual COBOL and Enterprise Developer v10+
