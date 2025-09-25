@@ -1,4 +1,4 @@
-# Rocket Unit Testing Framework Samples for X.X
+# Rocket Unit Testing Framework Samples for 11.0
 
 ## This is the main branch, plase choose the right branch for your product
 
