@@ -44,7 +44,7 @@ This repo contains a collection of samples that demonstrate the features include
 
 ## License
 
-Copyright 2023 – 2024 Rocket Software, Inc. or its affiliates.
+Copyright 2023 – 2025 Rocket Software, Inc. or its affiliates.
 This software may be used, modified, and distributed z(provided this notice is included without modification)
 
 Solely for internal demonstration purposes with other Rocket® products, and is otherwise subject to the EULA at [https://www.rocketsoftware.com/company/trust/agreements](https://www.rocketsoftware.com/company/trust/agreements).
